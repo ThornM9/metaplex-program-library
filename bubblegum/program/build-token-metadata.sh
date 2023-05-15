@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Simple script to build token-metdata and move it to the root
 # `test-programs` folder to load for banks client tests. This is
